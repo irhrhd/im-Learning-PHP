@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Im Learning PHP<title>
+      </head>
+      <body>
+      
+       <?php
+            echo "Hi im learning how to code, how are you?";
+         ?>
+         
+        </body>
+      </html>
+      
